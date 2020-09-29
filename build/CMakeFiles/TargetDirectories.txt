@@ -1,0 +1,17 @@
+/home/viktor/Documents/Vscode_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/viktor/Documents/Vscode_cmake/build/CMakeFiles/edit_cache.dir
+/home/viktor/Documents/Vscode_cmake/build/CMakeFiles/test.dir
+/home/viktor/Documents/Vscode_cmake/build/include/CMakeFiles/rebuild_cache.dir
+/home/viktor/Documents/Vscode_cmake/build/include/CMakeFiles/edit_cache.dir
+/home/viktor/Documents/Vscode_cmake/build/include/CMakeFiles/test.dir
+/home/viktor/Documents/Vscode_cmake/build/include/CMakeFiles/leetcode.dir
+/home/viktor/Documents/Vscode_cmake/build/test/CMakeFiles/rebuild_cache.dir
+/home/viktor/Documents/Vscode_cmake/build/test/CMakeFiles/edit_cache.dir
+/home/viktor/Documents/Vscode_cmake/build/test/CMakeFiles/test.dir
+/home/viktor/Documents/Vscode_cmake/build/test/CMakeFiles/test_tree.dir
+/home/viktor/Documents/Vscode_cmake/build/test/CMakeFiles/test_listnode.dir
+/home/viktor/Documents/Vscode_cmake/build/src/CMakeFiles/rebuild_cache.dir
+/home/viktor/Documents/Vscode_cmake/build/src/CMakeFiles/edit_cache.dir
+/home/viktor/Documents/Vscode_cmake/build/src/CMakeFiles/test.dir
+/home/viktor/Documents/Vscode_cmake/build/src/CMakeFiles/2.addTwoNumbers.dir
+/home/viktor/Documents/Vscode_cmake/build/src/CMakeFiles/0.template.dir

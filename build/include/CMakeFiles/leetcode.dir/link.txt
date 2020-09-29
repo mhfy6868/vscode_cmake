@@ -1,0 +1,2 @@
+/usr/bin/ar qc libleetcode.a CMakeFiles/leetcode.dir/btree.cc.o CMakeFiles/leetcode.dir/listnode.cc.o
+/usr/bin/ranlib libleetcode.a

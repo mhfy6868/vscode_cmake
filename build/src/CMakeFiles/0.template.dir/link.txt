@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/0.template.dir/0.template.cc.o -o 0.template  ../include/libleetcode.a -lpthread /usr/local/lib/libgtest.a /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a -lpthread 

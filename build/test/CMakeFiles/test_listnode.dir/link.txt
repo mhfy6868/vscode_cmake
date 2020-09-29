@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test_listnode.dir/test_listnode.cc.o -o test_listnode  ../include/libleetcode.a -lpthread /usr/local/lib/libgtest.a /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a -lpthread 

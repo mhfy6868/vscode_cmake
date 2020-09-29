@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/viktor/Documents/Vscode_cmake/build",
+  "command": "/usr/bin/g++ -I../include -g -o include/CMakeFiles/leetcode.dir/btree.cc.o -c /home/viktor/Documents/Vscode_cmake/include/btree.cc",
+  "file": "/home/viktor/Documents/Vscode_cmake/include/btree.cc"
+},
+{
+  "directory": "/home/viktor/Documents/Vscode_cmake/build",
+  "command": "/usr/bin/g++ -I../include -g -o include/CMakeFiles/leetcode.dir/listnode.cc.o -c /home/viktor/Documents/Vscode_cmake/include/listnode.cc",
+  "file": "/home/viktor/Documents/Vscode_cmake/include/listnode.cc"
+},
+{
+  "directory": "/home/viktor/Documents/Vscode_cmake/build",
+  "command": "/usr/bin/g++ -I../include -g -o test/CMakeFiles/test_tree.dir/test_tree.cc.o -c /home/viktor/Documents/Vscode_cmake/test/test_tree.cc",
+  "file": "/home/viktor/Documents/Vscode_cmake/test/test_tree.cc"
+},
+{
+  "directory": "/home/viktor/Documents/Vscode_cmake/build",
+  "command": "/usr/bin/g++ -I../include -g -o test/CMakeFiles/test_listnode.dir/test_listnode.cc.o -c /home/viktor/Documents/Vscode_cmake/test/test_listnode.cc",
+  "file": "/home/viktor/Documents/Vscode_cmake/test/test_listnode.cc"
+},
+{
+  "directory": "/home/viktor/Documents/Vscode_cmake/build",
+  "command": "/usr/bin/g++ -I../include -g -o src/CMakeFiles/2.addTwoNumbers.dir/2.addTwoNumbers.cc.o -c /home/viktor/Documents/Vscode_cmake/src/2.addTwoNumbers.cc",
+  "file": "/home/viktor/Documents/Vscode_cmake/src/2.addTwoNumbers.cc"
+},
+{
+  "directory": "/home/viktor/Documents/Vscode_cmake/build",
+  "command": "/usr/bin/g++ -I../include -g -o src/CMakeFiles/0.template.dir/0.template.cc.o -c /home/viktor/Documents/Vscode_cmake/src/0.template.cc",
+  "file": "/home/viktor/Documents/Vscode_cmake/src/0.template.cc"
+}
+]
